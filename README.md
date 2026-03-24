@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge"/>
 </a>
 
+
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Design+is+not+just+visual...;It's+about+solving+real+problems;User+first,+always+🚀" />
@@ -125,9 +126,6 @@ Design Thinking • Problem Solving
 ## 📫 Let's Connect
 
 💌 Email:pinxiling13@gmail.com  
-<a href="https://instagram.com/rayhankun14">
-  <img src="https://img.shields.io/badge/Instagram-rayhankun14-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 🌐 Portfolio: Coming Soon  
 
 <p align="center">
