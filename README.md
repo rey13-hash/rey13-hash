@@ -12,7 +12,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge"/>
 </a>
-
+ <a href="https://instagram.com/rayhankun14">
+  <img src="https://img.shields.io/badge/Instagram-rayhankun14-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
