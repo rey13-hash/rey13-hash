@@ -125,7 +125,15 @@ Design Thinking • Problem Solving
 ## 📫 Let's Connect
 
 💌 Email:pinxiling13@gmail.com  
+<a href="https://instagram.com/rayhankun14">
+  <img src="https://img.shields.io/badge/Instagram-rayhankun14-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 🌐 Portfolio: Coming Soon  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rey13-hash&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rey13-hash&theme=tokyonight"/>
+</p>
 
 </div>
 
